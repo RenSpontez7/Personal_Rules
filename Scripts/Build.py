@@ -7,7 +7,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-RULESET_BASE_URL = "https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master"
+RULESET_BASE_URL = "https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master"
 
 PLATFORM_EXTENSION = {
     "Egern": ".yaml"
