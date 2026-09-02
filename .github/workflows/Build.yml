@@ -21,7 +21,7 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Sync Ruleset
+      - name: Sync Personal_Rules
         run: |
           python Scripts/Build.py
 
