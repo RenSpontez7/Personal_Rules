@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
-      SINGBOX_VERSION: "1.14.0"
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v7.0.1
@@ -28,19 +28,6 @@ jobs:
       - name: Convert Rule
         run: |
           python Scripts/Build.py Egern Egern/
-          python Scripts/Build.py Singbox Singbox/
-
-      - name: Compile Rule
-        run: |
-          curl -fsSL -o sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${SINGBOX_VERSION}/sing-box-${SINGBOX_VERSION}-linux-amd64.tar.gz"
-          tar -xzf sing-box.tar.gz
-          chmod +x "sing-box-${SINGBOX_VERSION}-linux-amd64/sing-box"
-          sudo mv "sing-box-${SINGBOX_VERSION}-linux-amd64/sing-box" /usr/local/bin/sing-box
-          sing-box version
-          find Singbox -type f -name "*.json" | while read -r file; do
-            sing-box rule-set compile "$file" -o "${file%.json}.srs"
-          done
-          rm -rf ios_rule_script sing-box.tar.gz sing-box-*-linux-amd64
 
       - name: Push Changes
         run: |
