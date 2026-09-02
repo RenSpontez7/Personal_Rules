@@ -1,3 +1,3 @@
 # 🧸 Spotify
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Spotify/Spotify.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Spotify/Spotify.yaml

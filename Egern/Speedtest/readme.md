@@ -1,3 +1,3 @@
 # 🧸 Speedtest
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Speedtest/Speedtest.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Speedtest/Speedtest.yaml

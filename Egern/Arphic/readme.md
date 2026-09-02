@@ -1,3 +1,3 @@
 # 🧸 Arphic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Arphic/Arphic.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Arphic/Arphic.yaml

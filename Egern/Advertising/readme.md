@@ -1,3 +1,3 @@
 # 🧸 Advertising
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Advertising/Advertising.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Advertising/Advertising.yaml

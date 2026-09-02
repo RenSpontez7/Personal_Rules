@@ -1,3 +1,3 @@
 # 🧸 FreeCodeCamp
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FreeCodeCamp/FreeCodeCamp.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/FreeCodeCamp/FreeCodeCamp.yaml

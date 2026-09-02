@@ -1,3 +1,3 @@
 # 🧸 ZDNS
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZDNS/ZDNS.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ZDNS/ZDNS.yaml

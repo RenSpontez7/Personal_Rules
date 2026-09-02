@@ -1,3 +1,3 @@
 # 🧸 DuoWan
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DuoWan/DuoWan.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DuoWan/DuoWan.yaml

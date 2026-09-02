@@ -1,3 +1,3 @@
 # 🧸 ZeeTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZeeTV/ZeeTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ZeeTV/ZeeTV.yaml

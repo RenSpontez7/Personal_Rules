@@ -1,3 +1,3 @@
 # 🧸 Reddit
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Reddit/Reddit.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Reddit/Reddit.yaml

@@ -1,3 +1,3 @@
 # 🧸 AdvertisingMiTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AdvertisingMiTV/AdvertisingMiTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AdvertisingMiTV/AdvertisingMiTV.yaml

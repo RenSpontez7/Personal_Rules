@@ -1,3 +1,3 @@
 # 🧸 BMW
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BMW/BMW.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/BMW/BMW.yaml

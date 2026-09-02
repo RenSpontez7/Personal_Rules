@@ -1,3 +1,3 @@
 # 🧸 Opera
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Opera/Opera.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Opera/Opera.yaml

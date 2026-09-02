@@ -1,3 +1,3 @@
 # 🧸 AppLovin
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AppLovin/AppLovin.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AppLovin/AppLovin.yaml

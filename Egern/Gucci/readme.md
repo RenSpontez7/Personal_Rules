@@ -1,3 +1,3 @@
 # 🧸 Gucci
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Gucci/Gucci.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Gucci/Gucci.yaml

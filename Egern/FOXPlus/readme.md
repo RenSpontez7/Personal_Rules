@@ -1,3 +1,3 @@
 # 🧸 FOXPlus
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FOXPlus/FOXPlus.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/FOXPlus/FOXPlus.yaml

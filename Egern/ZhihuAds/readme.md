@@ -1,3 +1,3 @@
 # 🧸 ZhihuAds
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZhihuAds/ZhihuAds.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ZhihuAds/ZhihuAds.yaml

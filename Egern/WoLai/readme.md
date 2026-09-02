@@ -1,3 +1,3 @@
 # 🧸 WoLai
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/WoLai/WoLai.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/WoLai/WoLai.yaml

@@ -1,3 +1,3 @@
 # 🧸 OKX
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/OKX/OKX.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/OKX/OKX.yaml

@@ -1,3 +1,3 @@
 # 🧸 RemoteDesktop
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/RemoteDesktop/RemoteDesktop.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/RemoteDesktop/RemoteDesktop.yaml

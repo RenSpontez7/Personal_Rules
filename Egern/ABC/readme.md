@@ -1,3 +1,3 @@
 # 🧸 ABC
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ABC/ABC.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ABC/ABC.yaml

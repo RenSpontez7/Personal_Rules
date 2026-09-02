@@ -1,3 +1,3 @@
 # 🧸 zhanqi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/zhanqi/zhanqi.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/zhanqi/zhanqi.yaml

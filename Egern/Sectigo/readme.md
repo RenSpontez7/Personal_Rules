@@ -1,3 +1,3 @@
 # 🧸 Sectigo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Sectigo/Sectigo.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Sectigo/Sectigo.yaml

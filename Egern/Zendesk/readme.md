@@ -1,3 +1,3 @@
 # 🧸 Zendesk
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Zendesk/Zendesk.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Zendesk/Zendesk.yaml

@@ -1,3 +1,3 @@
 # 🧸 ZhuanZhuan
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZhuanZhuan/ZhuanZhuan.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ZhuanZhuan/ZhuanZhuan.yaml

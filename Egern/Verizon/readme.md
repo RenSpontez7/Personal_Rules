@@ -1,3 +1,3 @@
 # 🧸 Verizon
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Verizon/Verizon.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Verizon/Verizon.yaml

@@ -1,3 +1,3 @@
 # 🧸 YouMengChuangXiang
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YouMengChuangXiang/YouMengChuangXiang.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/YouMengChuangXiang/YouMengChuangXiang.yaml

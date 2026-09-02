@@ -1,3 +1,3 @@
 # 🧸 UBI
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/UBI/UBI.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/UBI/UBI.yaml

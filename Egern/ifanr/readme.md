@@ -1,3 +1,3 @@
 # 🧸 ifanr
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ifanr/ifanr.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ifanr/ifanr.yaml

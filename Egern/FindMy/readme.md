@@ -1,3 +1,3 @@
 # 🧸 FindMy
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/FindMy/FindMy.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/FindMy/FindMy.yaml

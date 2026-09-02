@@ -1,3 +1,3 @@
 # 🧸 Electron
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Electron/Electron.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Electron/Electron.yaml

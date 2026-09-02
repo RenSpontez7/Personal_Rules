@@ -1,3 +1,3 @@
 # 🧸 McDonalds
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/McDonalds/McDonalds.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/McDonalds/McDonalds.yaml

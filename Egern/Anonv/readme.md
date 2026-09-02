@@ -1,3 +1,3 @@
 # 🧸 Anonv
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Anonv/Anonv.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Anonv/Anonv.yaml

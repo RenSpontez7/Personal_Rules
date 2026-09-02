@@ -1,3 +1,3 @@
 # 🧸 HBOHK
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HBOHK/HBOHK.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/HBOHK/HBOHK.yaml

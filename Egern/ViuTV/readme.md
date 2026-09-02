@@ -1,3 +1,3 @@
 # 🧸 ViuTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ViuTV/ViuTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ViuTV/ViuTV.yaml

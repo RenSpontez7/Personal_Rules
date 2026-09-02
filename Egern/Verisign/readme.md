@@ -1,3 +1,3 @@
 # 🧸 Verisign
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Verisign/Verisign.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Verisign/Verisign.yaml

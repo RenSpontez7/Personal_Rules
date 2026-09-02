@@ -1,3 +1,3 @@
 # 🧸 HunanTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HunanTV/HunanTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/HunanTV/HunanTV.yaml

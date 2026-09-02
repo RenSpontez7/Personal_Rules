@@ -1,3 +1,3 @@
 # 🧸 IBM
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/IBM/IBM.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/IBM/IBM.yaml

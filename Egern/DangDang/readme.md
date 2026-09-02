@@ -1,3 +1,3 @@
 # 🧸 DangDang
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DangDang/DangDang.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DangDang/DangDang.yaml

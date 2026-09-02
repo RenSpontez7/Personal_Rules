@@ -1,3 +1,3 @@
 # 🧸 VikACG
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/VikACG/VikACG.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/VikACG/VikACG.yaml

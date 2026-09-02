@@ -1,3 +1,3 @@
 # 🧸 Picacg
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Picacg/Picacg.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Picacg/Picacg.yaml

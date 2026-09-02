@@ -1,3 +1,3 @@
 # 🧸 Npmjs
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Npmjs/Npmjs.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Npmjs/Npmjs.yaml

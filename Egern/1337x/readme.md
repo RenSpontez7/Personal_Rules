@@ -1,3 +1,3 @@
 # 🧸 1337x
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/1337x/1337x.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/1337x/1337x.yaml

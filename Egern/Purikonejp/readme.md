@@ -1,3 +1,3 @@
 # 🧸 Purikonejp
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Purikonejp/Purikonejp.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Purikonejp/Purikonejp.yaml

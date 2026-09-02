@@ -1,3 +1,3 @@
 # 🧸 56
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/56/56.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/56/56.yaml

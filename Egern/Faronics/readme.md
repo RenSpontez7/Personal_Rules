@@ -1,3 +1,3 @@
 # 🧸 Faronics
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Faronics/Faronics.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Faronics/Faronics.yaml

@@ -1,3 +1,3 @@
 # 🧸 SFExpress
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/SFExpress/SFExpress.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/SFExpress/SFExpress.yaml

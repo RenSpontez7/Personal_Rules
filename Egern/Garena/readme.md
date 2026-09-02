@@ -1,3 +1,3 @@
 # 🧸 Garena
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Garena/Garena.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Garena/Garena.yaml

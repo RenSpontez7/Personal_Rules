@@ -1,3 +1,3 @@
 # 🧸 Apple
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Apple/Apple.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Apple/Apple.yaml

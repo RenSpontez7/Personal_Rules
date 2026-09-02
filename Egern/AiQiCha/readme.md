@@ -1,3 +1,3 @@
 # 🧸 AiQiCha
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AiQiCha/AiQiCha.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AiQiCha/AiQiCha.yaml

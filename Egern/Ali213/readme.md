@@ -1,3 +1,3 @@
 # 🧸 Ali213
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Ali213/Ali213.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Ali213/Ali213.yaml

@@ -1,3 +1,3 @@
 # 🧸 TianYaForum
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TianYaForum/TianYaForum.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/TianYaForum/TianYaForum.yaml

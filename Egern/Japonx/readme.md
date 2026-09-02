@@ -1,3 +1,3 @@
 # 🧸 Japonx
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Japonx/Japonx.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Japonx/Japonx.yaml

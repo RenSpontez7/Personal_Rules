@@ -1,3 +1,3 @@
 # 🧸 YYeTs
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YYeTs/YYeTs.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/YYeTs/YYeTs.yaml

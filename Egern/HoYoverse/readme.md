@@ -1,3 +1,3 @@
 # 🧸 HoYoverse
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HoYoverse/HoYoverse.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/HoYoverse/HoYoverse.yaml

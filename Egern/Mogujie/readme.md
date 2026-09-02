@@ -1,3 +1,3 @@
 # 🧸 Mogujie
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Mogujie/Mogujie.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Mogujie/Mogujie.yaml

@@ -1,3 +1,3 @@
 # 🧸 Sharethis
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Sharethis/Sharethis.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Sharethis/Sharethis.yaml

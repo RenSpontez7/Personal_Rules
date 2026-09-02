@@ -1,3 +1,3 @@
 # 🧸 Binance
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Binance/Binance.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Binance/Binance.yaml

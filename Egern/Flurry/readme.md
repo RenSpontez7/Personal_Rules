@@ -1,3 +1,3 @@
 # 🧸 Flurry
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Flurry/Flurry.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Flurry/Flurry.yaml

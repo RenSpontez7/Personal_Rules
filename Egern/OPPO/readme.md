@@ -1,3 +1,3 @@
 # 🧸 OPPO
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/OPPO/OPPO.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/OPPO/OPPO.yaml

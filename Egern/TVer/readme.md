@@ -1,3 +1,3 @@
 # 🧸 TVer
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/TVer/TVer.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/TVer/TVer.yaml

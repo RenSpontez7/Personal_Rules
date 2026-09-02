@@ -1,3 +1,3 @@
 # 🧸 ATTWatchTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ATTWatchTV/ATTWatchTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ATTWatchTV/ATTWatchTV.yaml

@@ -1,3 +1,3 @@
 # 🧸 PPTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/PPTV/PPTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/PPTV/PPTV.yaml

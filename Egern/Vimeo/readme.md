@@ -1,3 +1,3 @@
 # 🧸 Vimeo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Vimeo/Vimeo.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Vimeo/Vimeo.yaml

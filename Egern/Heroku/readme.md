@@ -1,3 +1,3 @@
 # 🧸 Heroku
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Heroku/Heroku.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Heroku/Heroku.yaml

@@ -1,3 +1,3 @@
 # 🧸 PChomeTW
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/PChomeTW/PChomeTW.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/PChomeTW/PChomeTW.yaml

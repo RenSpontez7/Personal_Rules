@@ -1,3 +1,3 @@
 # 🧸 HeroesoftheStorm
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HeroesoftheStorm/HeroesoftheStorm.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/HeroesoftheStorm/HeroesoftheStorm.yaml

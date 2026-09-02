@@ -1,3 +1,3 @@
 # 🧸 Qyyjt
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Qyyjt/Qyyjt.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Qyyjt/Qyyjt.yaml

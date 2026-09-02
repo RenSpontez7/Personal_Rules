@@ -1,3 +1,3 @@
 # 🧸 VidolTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/VidolTV/VidolTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/VidolTV/VidolTV.yaml

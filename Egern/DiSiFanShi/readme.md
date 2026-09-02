@@ -1,3 +1,3 @@
 # 🧸 DiSiFanShi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DiSiFanShi/DiSiFanShi.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DiSiFanShi/DiSiFanShi.yaml

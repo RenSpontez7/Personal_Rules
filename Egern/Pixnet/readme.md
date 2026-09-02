@@ -1,3 +1,3 @@
 # 🧸 Pixnet
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Pixnet/Pixnet.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Pixnet/Pixnet.yaml

@@ -1,3 +1,3 @@
 # 🧸 Jetbrains
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Jetbrains/Jetbrains.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Jetbrains/Jetbrains.yaml

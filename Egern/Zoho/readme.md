@@ -1,3 +1,3 @@
 # 🧸 Zoho
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Zoho/Zoho.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Zoho/Zoho.yaml

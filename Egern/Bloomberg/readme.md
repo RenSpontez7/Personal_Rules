@@ -1,3 +1,3 @@
 # 🧸 Bloomberg
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Bloomberg/Bloomberg.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Bloomberg/Bloomberg.yaml

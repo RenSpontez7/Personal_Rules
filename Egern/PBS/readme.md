@@ -1,3 +1,3 @@
 # 🧸 PBS
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/PBS/PBS.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/PBS/PBS.yaml

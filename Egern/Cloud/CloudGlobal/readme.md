@@ -1,3 +1,3 @@
 # 🧸 CloudGlobal
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Cloud/CloudGlobal/CloudGlobal.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Cloud/CloudGlobal/CloudGlobal.yaml

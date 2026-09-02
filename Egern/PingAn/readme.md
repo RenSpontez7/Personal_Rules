@@ -1,3 +1,3 @@
 # 🧸 PingAn
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/PingAn/PingAn.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/PingAn/PingAn.yaml

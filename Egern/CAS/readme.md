@@ -1,3 +1,3 @@
 # 🧸 CAS
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CAS/CAS.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/CAS/CAS.yaml

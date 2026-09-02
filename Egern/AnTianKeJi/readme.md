@@ -1,3 +1,3 @@
 # 🧸 AnTianKeJi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AnTianKeJi/AnTianKeJi.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AnTianKeJi/AnTianKeJi.yaml

@@ -1,3 +1,3 @@
 # 🧸 Vercel
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Vercel/Vercel.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Vercel/Vercel.yaml

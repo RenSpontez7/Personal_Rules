@@ -1,3 +1,3 @@
 # 🧸 EasyPrivacy
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/EasyPrivacy/EasyPrivacy.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/EasyPrivacy/EasyPrivacy.yaml

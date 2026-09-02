@@ -1,3 +1,3 @@
 # 🧸 DynDNS
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DynDNS/DynDNS.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DynDNS/DynDNS.yaml

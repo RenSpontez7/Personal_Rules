@@ -1,3 +1,3 @@
 # 🧸 DigitalOcean
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DigitalOcean/DigitalOcean.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DigitalOcean/DigitalOcean.yaml

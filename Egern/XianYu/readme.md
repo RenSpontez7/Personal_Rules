@@ -1,3 +1,3 @@
 # 🧸 XianYu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/XianYu/XianYu.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/XianYu/XianYu.yaml

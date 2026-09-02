@@ -1,3 +1,3 @@
 # 🧸 Wikipedia
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Wikipedia/Wikipedia.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Wikipedia/Wikipedia.yaml

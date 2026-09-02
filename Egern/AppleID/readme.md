@@ -1,3 +1,3 @@
 # 🧸 AppleID
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AppleID/AppleID.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AppleID/AppleID.yaml

@@ -1,3 +1,3 @@
 # 🧸 CGB
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CGB/CGB.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/CGB/CGB.yaml

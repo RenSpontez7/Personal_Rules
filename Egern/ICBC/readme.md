@@ -1,3 +1,3 @@
 # 🧸 ICBC
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ICBC/ICBC.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ICBC/ICBC.yaml

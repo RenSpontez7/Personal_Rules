@@ -1,3 +1,3 @@
 # 🧸 Gog
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Gog/Gog.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Gog/Gog.yaml

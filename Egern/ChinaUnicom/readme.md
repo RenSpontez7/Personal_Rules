@@ -1,3 +1,3 @@
 # 🧸 ChinaUnicom
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChinaUnicom/ChinaUnicom.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ChinaUnicom/ChinaUnicom.yaml

@@ -1,3 +1,3 @@
 # 🧸 GitHub
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/GitHub/GitHub.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/GitHub/GitHub.yaml

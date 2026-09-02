@@ -1,3 +1,3 @@
 # 🧸 CaiNiao
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CaiNiao/CaiNiao.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/CaiNiao/CaiNiao.yaml

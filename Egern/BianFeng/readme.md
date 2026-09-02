@@ -1,3 +1,3 @@
 # 🧸 BianFeng
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BianFeng/BianFeng.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/BianFeng/BianFeng.yaml

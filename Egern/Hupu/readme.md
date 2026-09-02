@@ -1,3 +1,3 @@
 # 🧸 Hupu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Hupu/Hupu.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Hupu/Hupu.yaml

@@ -1,3 +1,3 @@
 # 🧸 BiliBiliIntl
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/BiliBiliIntl/BiliBiliIntl.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/BiliBiliIntl/BiliBiliIntl.yaml

@@ -1,3 +1,3 @@
 # 🧸 AmazonCN
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AmazonCN/AmazonCN.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AmazonCN/AmazonCN.yaml

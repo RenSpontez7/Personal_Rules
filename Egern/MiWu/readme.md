@@ -1,3 +1,3 @@
 # 🧸 MiWu
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/MiWu/MiWu.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/MiWu/MiWu.yaml

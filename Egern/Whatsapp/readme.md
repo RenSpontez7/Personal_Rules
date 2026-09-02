@@ -1,3 +1,3 @@
 # 🧸 Whatsapp
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Whatsapp/Whatsapp.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Whatsapp/Whatsapp.yaml

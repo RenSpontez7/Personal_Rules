@@ -1,3 +1,3 @@
 # 🧸 OneDrive
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/OneDrive/OneDrive.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/OneDrive/OneDrive.yaml

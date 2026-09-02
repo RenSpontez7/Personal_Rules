@@ -1,3 +1,3 @@
 # 🧸 Hijacking
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Hijacking/Hijacking.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Hijacking/Hijacking.yaml

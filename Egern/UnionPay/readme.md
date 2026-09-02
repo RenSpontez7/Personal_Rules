@@ -1,3 +1,3 @@
 # 🧸 UnionPay
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/UnionPay/UnionPay.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/UnionPay/UnionPay.yaml

@@ -1,3 +1,3 @@
 # 🧸 MicrosoftEdge
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/MicrosoftEdge/MicrosoftEdge.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/MicrosoftEdge/MicrosoftEdge.yaml

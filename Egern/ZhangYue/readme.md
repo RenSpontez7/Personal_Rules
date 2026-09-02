@@ -1,3 +1,3 @@
 # 🧸 ZhangYue
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZhangYue/ZhangYue.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ZhangYue/ZhangYue.yaml

@@ -1,3 +1,3 @@
 # 🧸 MIUIPrivacy
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/MIUIPrivacy/MIUIPrivacy.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/MIUIPrivacy/MIUIPrivacy.yaml

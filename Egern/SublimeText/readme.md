@@ -1,3 +1,3 @@
 # 🧸 SublimeText
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/SublimeText/SublimeText.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/SublimeText/SublimeText.yaml

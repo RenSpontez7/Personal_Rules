@@ -1,3 +1,3 @@
 # 🧸 HashiCorp
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HashiCorp/HashiCorp.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/HashiCorp/HashiCorp.yaml

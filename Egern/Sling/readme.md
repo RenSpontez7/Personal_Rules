@@ -1,3 +1,3 @@
 # 🧸 Sling
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Sling/Sling.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Sling/Sling.yaml

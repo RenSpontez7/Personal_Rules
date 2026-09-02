@@ -1,3 +1,3 @@
 # 🧸 iCloud
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/iCloud/iCloud.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/iCloud/iCloud.yaml

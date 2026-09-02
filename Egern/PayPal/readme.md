@@ -1,3 +1,3 @@
 # 🧸 PayPal
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/PayPal/PayPal.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/PayPal/PayPal.yaml

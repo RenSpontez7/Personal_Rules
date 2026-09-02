@@ -1,3 +1,3 @@
 # 🧸 YouTube
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YouTube/YouTube.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/YouTube/YouTube.yaml

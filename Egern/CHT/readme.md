@@ -1,3 +1,3 @@
 # 🧸 CHT
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CHT/CHT.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/CHT/CHT.yaml

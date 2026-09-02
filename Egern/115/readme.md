@@ -1,3 +1,3 @@
 # 🧸 115
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/115/115.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/115/115.yaml

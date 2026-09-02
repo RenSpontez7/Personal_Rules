@@ -1,3 +1,3 @@
 # 🧸 Teams
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Teams/Teams.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Teams/Teams.yaml

@@ -1,3 +1,3 @@
 # 🧸 KugouKuwo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/KugouKuwo/KugouKuwo.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/KugouKuwo/KugouKuwo.yaml

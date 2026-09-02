@@ -1,3 +1,3 @@
 # 🧸 aiXcoder
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/aiXcoder/aiXcoder.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/aiXcoder/aiXcoder.yaml

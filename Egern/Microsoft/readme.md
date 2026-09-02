@@ -1,3 +1,3 @@
 # 🧸 Microsoft
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Microsoft/Microsoft.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Microsoft/Microsoft.yaml

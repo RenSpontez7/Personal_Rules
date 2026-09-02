@@ -1,3 +1,3 @@
 # 🧸 YiChe
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/YiChe/YiChe.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/YiChe/YiChe.yaml

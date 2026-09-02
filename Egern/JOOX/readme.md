@@ -1,3 +1,3 @@
 # 🧸 JOOX
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/JOOX/JOOX.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/JOOX/JOOX.yaml

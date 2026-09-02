@@ -1,3 +1,3 @@
 # 🧸 DouBan
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DouBan/DouBan.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DouBan/DouBan.yaml

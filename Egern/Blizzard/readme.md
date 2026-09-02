@@ -1,3 +1,3 @@
 # 🧸 Blizzard
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Blizzard/Blizzard.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Blizzard/Blizzard.yaml

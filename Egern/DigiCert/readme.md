@@ -1,3 +1,3 @@
 # 🧸 DigiCert
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DigiCert/DigiCert.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DigiCert/DigiCert.yaml

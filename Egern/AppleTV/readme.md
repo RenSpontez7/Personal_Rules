@@ -1,3 +1,3 @@
 # 🧸 AppleTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AppleTV/AppleTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AppleTV/AppleTV.yaml

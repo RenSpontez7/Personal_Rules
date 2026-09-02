@@ -1,3 +1,3 @@
 # 🧸 CMB
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CMB/CMB.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/CMB/CMB.yaml

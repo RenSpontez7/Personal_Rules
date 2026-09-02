@@ -1,3 +1,3 @@
 # 🧸 4399
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/4399/4399.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/4399/4399.yaml

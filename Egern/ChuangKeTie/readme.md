@@ -1,3 +1,3 @@
 # 🧸 ChuangKeTie
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ChuangKeTie/ChuangKeTie.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ChuangKeTie/ChuangKeTie.yaml

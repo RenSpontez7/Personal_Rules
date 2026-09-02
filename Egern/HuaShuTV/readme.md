@@ -1,3 +1,3 @@
 # 🧸 HuaShuTV
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/HuaShuTV/HuaShuTV.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/HuaShuTV/HuaShuTV.yaml

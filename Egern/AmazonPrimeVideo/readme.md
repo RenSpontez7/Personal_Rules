@@ -1,3 +1,3 @@
 # 🧸 AmazonPrimeVideo
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AmazonPrimeVideo/AmazonPrimeVideo.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AmazonPrimeVideo/AmazonPrimeVideo.yaml

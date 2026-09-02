@@ -1,3 +1,3 @@
 # 🧸 SourceForge
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/SourceForge/SourceForge.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/SourceForge/SourceForge.yaml

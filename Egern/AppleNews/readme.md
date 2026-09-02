@@ -1,3 +1,3 @@
 # 🧸 AppleNews
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AppleNews/AppleNews.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AppleNews/AppleNews.yaml

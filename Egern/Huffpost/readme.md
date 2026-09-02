@@ -1,3 +1,3 @@
 # 🧸 Huffpost
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Huffpost/Huffpost.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Huffpost/Huffpost.yaml

@@ -1,3 +1,3 @@
 # 🧸 Python
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Python/Python.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Python/Python.yaml

@@ -1,3 +1,3 @@
 # 🧸 Hkgolden
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Hkgolden/Hkgolden.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Hkgolden/Hkgolden.yaml

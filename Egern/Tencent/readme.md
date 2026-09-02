@@ -1,3 +1,3 @@
 # 🧸 Tencent
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Tencent/Tencent.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Tencent/Tencent.yaml

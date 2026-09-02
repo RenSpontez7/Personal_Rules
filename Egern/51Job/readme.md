@@ -1,3 +1,3 @@
 # 🧸 51Job
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/51Job/51Job.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/51Job/51Job.yaml

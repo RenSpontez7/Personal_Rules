@@ -1,3 +1,3 @@
 # 🧸 RuanMei
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/RuanMei/RuanMei.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/RuanMei/RuanMei.yaml

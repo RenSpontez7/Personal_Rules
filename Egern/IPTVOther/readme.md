@@ -1,3 +1,3 @@
 # 🧸 IPTVOther
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/IPTVOther/IPTVOther.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/IPTVOther/IPTVOther.yaml

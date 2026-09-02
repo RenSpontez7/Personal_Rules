@@ -1,3 +1,3 @@
 # 🧸 GoogleSearch
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/GoogleSearch/GoogleSearch.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/GoogleSearch/GoogleSearch.yaml

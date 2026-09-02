@@ -1,3 +1,3 @@
 # 🧸 Dell
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/Dell/Dell.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/Dell/Dell.yaml

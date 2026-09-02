@@ -1,3 +1,3 @@
 # 🧸 WildRift
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/WildRift/WildRift.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/WildRift/WildRift.yaml

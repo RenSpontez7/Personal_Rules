@@ -1,3 +1,3 @@
 # 🧸 iCloudPrivateRelay
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/iCloudPrivateRelay/iCloudPrivateRelay.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/iCloudPrivateRelay/iCloudPrivateRelay.yaml

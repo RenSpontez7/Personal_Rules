@@ -1,3 +1,3 @@
 # 🧸 ZhiYunZhong
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/ZhiYunZhong/ZhiYunZhong.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/ZhiYunZhong/ZhiYunZhong.yaml

@@ -1,3 +1,3 @@
 # 🧸 XiamiMusic
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/XiamiMusic/XiamiMusic.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/XiamiMusic/XiamiMusic.yaml

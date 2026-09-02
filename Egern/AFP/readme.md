@@ -1,3 +1,3 @@
 # 🧸 AFP
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/AFP/AFP.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/AFP/AFP.yaml

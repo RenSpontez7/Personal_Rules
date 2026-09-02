@@ -1,3 +1,3 @@
 # 🧸 CSDN
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/CSDN/CSDN.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/CSDN/CSDN.yaml

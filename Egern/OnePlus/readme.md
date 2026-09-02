@@ -1,3 +1,3 @@
 # 🧸 OnePlus
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/OnePlus/OnePlus.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/OnePlus/OnePlus.yaml

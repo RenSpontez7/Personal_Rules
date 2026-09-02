@@ -1,3 +1,3 @@
 # 🧸 DiDi
 
-https://raw.githubusercontent.com/Centralmatrix3/Ruleset/master/Egern/DiDi/DiDi.yaml
+https://raw.githubusercontent.com/RenSpontez7/Personal_Rules/master/Egern/DiDi/DiDi.yaml
