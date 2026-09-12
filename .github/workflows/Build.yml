@@ -21,13 +21,13 @@ jobs:
           repository: blackmatrix7/ios_rule_script
           path: ios_rule_script
 
-      - name: Sync Personal_Rules
+      - name: Sources Sync
         run: |
-          python Scripts/Build.py
+          python Build.py
 
       - name: Convert Rule
         run: |
-          python Scripts/Build.py Egern Egern/
+          python Build.py Egern Egern/
 
       - name: Push Changes
         run: |
