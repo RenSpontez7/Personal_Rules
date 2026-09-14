@@ -1,0 +1,17 @@
+rules:
+- domain:
+    match: api.pingmeapp.net
+    policy: DIRECT
+    disabled: false
+- domain:
+    match: api.wetalkapp.com
+    policy: DIRECT
+    disabled: false
+- domain_keyword:
+    match: apple
+    policy: DIRECT
+    disabled: false
+- domain_keyword:
+    match: icloud
+    policy: DIRECT
+    disabled: false
